@@ -43,16 +43,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ernestmalcolm/github-readme-stats"><img alt="Ernest's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ernestmalcolm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://Ernest's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingossy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!--<a href="https://github.com/ernestmalcolm/github-readme-stats"><img alt="Ernest's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ernestmalcolm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
+  <a href="https://Ernest's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestmalcolm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/ernestmalcolm/github-readme-activity-graph"><img alt="Ernest's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ernestmalcolm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,9 +59,3 @@
 
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ernestmalcolm">
-</a>
-<a href="https://github.com/ernestmalcolm?tab=followers"><img src="https://img.shields.io/github/followers/ernestmalcolm?label=Followers&style=social" alt="GitHub Badge"></a>
