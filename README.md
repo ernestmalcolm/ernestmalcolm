@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **front-end development for internship and part-time jobs**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://codingossy.vercel.app)**-->
-
 - 📫 How to reach me **gmem200197@gmail.com** and on my social media listed at the bottom.
 
 - ⚡ I like having fun too. I love food ALOT plus cooking alittle, I like watching Series but I'm an indoorsie person, oops!
@@ -43,8 +41,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <!--<a href="https://github.com/ernestmalcolm/github-readme-stats"><img alt="Ernest's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ernestmalcolm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
-  <a href="https://Ernest's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestmalcolm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestmalcolm)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
