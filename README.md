@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hellow <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ernest</h1>
+<h1 align="center">Hellow <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ernest</h1>
 <h3 align="center">I'm a passionate Front End Developer from Tanzania.</h3>
 
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ernestmalcolm/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ernest's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ernestmalcolm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -44,7 +44,7 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestmalcolm)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-
+ -->
 <br/>
 <br/>
 
